@@ -15,4 +15,4 @@ layout: one
 
 ## Hi there !!
 
-I am an Electronics engineer from Thiruvananthapuram who like to make, fab, read, take apart things, motorbike and travel. This site is to publish and organise my works and activities. I currently work as an Instructor to Fab Academy students at [Fab Lab Trivandrum](https://www.fablabs.io/labs/fablabtrivandrum)  and also as a technical resource person for [Kochi Muziris Biennale](http://kochimuzirisbiennale.org/). Before, I used to be a Technology Innovation Fellow of Kerala Startup Mission. I have also co-founded startups(which apparently failed). 
+I am an Electronics engineer from Thiruvananthapuram who like to make, fab, read, take apart things,technology, startups, motorbike and travel. This site is to publish and organise my works and activities. I currently work as an Instructor to Fab Academy students at [Fab Lab Trivandrum](https://www.fablabs.io/labs/fablabtrivandrum)  and also as a technical resource person for [Kochi Muziris Biennale](http://kochimuzirisbiennale.org/). Before, I used to be a Technology Innovation Fellow of Kerala Startup Mission.
