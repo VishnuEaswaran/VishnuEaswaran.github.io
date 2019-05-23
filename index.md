@@ -15,7 +15,7 @@ layout: one
 
 ## Hi there !!
 
-An engineer by profession and a humanist by nature. I currently work as a *Research Associate* in [FOSSE](http://www.sahridhaya.org/), IIT Bombay; the title translates to applied researcher and/or as an Embedded Systems Engineer. Previously I was assosciated with [Kerala Startup Mission](https://startupmission.kerala.gov.in/)-- initially as a *Technology Innovation Fellow* and later as a *Technology Associate* at their *Fab Labs*.
+An engineer by profession and a humanist by nature. I currently work as a *Research Associate* in [FOSSE](http://www.sahridhaya.org/), IIT Bombay; the title translates to applied researcher and/or as an Embedded Systems Engineer. Previously I was assosciated with [Kerala Startup Mission](https://startupmission.kerala.gov.in/)&mdash; initially as a *Technology Innovation Fellow* and later as a *Technology Associate* at their *Fab Labs*.
 
 [*Sahridhaya*](http://www.sahridhaya.org/) is my alter ego, an NGO operating in Kerala where I volunteered from its inception, and recently, I got fortunate enough to be selected into the Board of Trustees.
 
