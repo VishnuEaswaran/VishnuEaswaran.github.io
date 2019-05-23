@@ -15,4 +15,11 @@ layout: one
 
 ## Hi there !!
 
-I am an Electronics engineer from Thiruvananthapuram who like to make, fab, read, take apart things,technology, startups, motorbike and travel. This site is to publish and organise my works and activities. I currently work as a research Assistant at [FOSSEE - IIT Bombay](https://fossee.in/). Feel free to roam around and let me know your thoughts. Cheers !!
+An engineer by profession and a humanist by nature. I currently work as a *Research Associate* in [FOSSE](http://www.sahridhaya.org/), IIT Bombay; the title translates to applied researcher and/or as an Embedded Systems Engineer. Previously I was assosciated with Kerala Startup mission-- initially as a *Technology Innovation Fellow* and later as a *Technology Associate* at their *Fab Labs*.
+[*Sahridhaya*](http://www.sahridhaya.org/) is my alter ego, an NGO operating in Kerala where I volunteered from its inception, and recently, I got fortunate enough to be selected into the Board of Trustees.
+
+I want to keep this place clean & simple, and have it as a single place to document my work. Thanks for coming by and I love to have a conversation with you; drop an email to easwaranvishnu[at]gmail.com if interested.
+
+Wish you a Good Day!
+
+Resume, if you need that - [link](https://github.com/VishnuEaswaran/resume/blob/master/vishnuResume.pdf)
