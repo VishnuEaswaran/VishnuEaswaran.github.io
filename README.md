@@ -1,4 +1,4 @@
-Personal Blog
+Personal Page
 =====
 
 This would serve as a space for jotting down all my musings,
