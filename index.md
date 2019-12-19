@@ -23,4 +23,4 @@ I want to keep this place clean & simple and have it as a single place to docume
 
 Wish you a Good Day!
 
-Resume, if that s what interests you - [link](https://github.com/VishnuEaswaran/resume/blob/master/vishnuResume.pdf)
+Resume, if that s what interests you -> [link](https://github.com/VishnuEaswaran/resume/blob/master/vishnuResume.pdf)
